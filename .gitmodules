@@ -1,0 +1,3 @@
+[submodule "varnish-dashboard"]
+	path = varnish-dashboard
+	url = https://github.com/brandonwamboldt/varnish-dashboard
